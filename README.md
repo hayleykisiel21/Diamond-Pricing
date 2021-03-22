@@ -1,6 +1,6 @@
 # Diamond-Pricing
 
-A statistically significant data model is created in order to predict the price of a Blue Nile diamond. 
+A statistically significant model is created in order to predict the price of a Blue Nile diamond. 
 
 ## Description
 
